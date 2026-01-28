@@ -40,9 +40,5 @@ Power BI dashboards are used to visualize data distribution, model comparisons, 
 - Deployment as a web-based clinical tool  
 - Integration with hospital information systems  
 
-## Contributors
-- Project Team Members  
-- Academic Guide / Mentor  
-
 ## License
 This project is intended for academic and research purposes.
