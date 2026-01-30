@@ -41,7 +41,8 @@ Power BI dashboards are used to visualize data distribution, model comparisons, 
 - Integration with hospital information systems
 
 ## Pre Requisites
-- Python 3.8+ – https://www.python.org/downloads/
+- Java Development Kit (JDK 8 or JDK 11) (Required for Hadoop and Spark) https://www.oracle.com/java/technologies/javase-downloads.html (OpenJDK alternative: https://openjdk.org/)
+-  Python 3.8+ – https://www.python.org/downloads/
 - Apache Hadoop – https://hadoop.apache.org/
 - Apache Spark – https://spark.apache.org/
 - Power BI Desktop (for dashboards & visualization) – https://powerbi.microsoft.com/desktop/
