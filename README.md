@@ -38,7 +38,16 @@ Power BI dashboards are used to visualize data distribution, model comparisons, 
 - Real-time data integration  
 - Explainable AI (XAI) techniques  
 - Deployment as a web-based clinical tool  
-- Integration with hospital information systems  
+- Integration with hospital information systems
+
+## Pre Requisites
+- Python 3.8+ – https://www.python.org/downloads/
+- Apache Hadoop – https://hadoop.apache.org/
+- Apache Spark – https://spark.apache.org/
+- Power BI Desktop (for dashboards & visualization) – https://powerbi.microsoft.com/desktop/
+- NumPy – https://numpy.org/
+- Pandas – https://pandas.pydata.org/
+- PySpark – https://spark.apache.org/docs/latest/api/python/
 
 ## License
 This project is intended for academic and research purposes.
